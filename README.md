@@ -33,5 +33,9 @@ This project is an example of architecture using new technologies and best pract
 - Segregation by feature instead of technical type.
 - Single responsibility for each request and response.
 
+## Project Dependencies
+![](./Git/images/project-dependencies.bmp)
+
 ## Feedback
 If you have any feedback, please reach out to us at akin.bicer@outlook.com.tr
+
