@@ -32,3 +32,6 @@ This project is an example of architecture using new technologies and best pract
 - Avoid unnecessary dependency injection.
 - Segregation by feature instead of technical type.
 - Single responsibility for each request and response.
+
+## Feedback
+If you have any feedback, please reach out to us at akin.bicer@outlook.com.tr
