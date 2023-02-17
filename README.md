@@ -4,7 +4,6 @@ This project is an example of architecture using new technologies and best pract
 ## Technologies and Libraries
 - .NET 7
 - ASP.NET Core 7.0
-- Docker
 - Swagger UI
 - Entity Framework Core
 - Npgsql Entity Framework Core Provider (PostgreSQL)
