@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace IdentityAPI.Controllers;
+namespace WebAPI.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]

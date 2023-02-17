@@ -1,4 +1,4 @@
-# **Layered Architecture**
+# **N-Tier Architecture**
 This project is an example of architecture using new technologies and best practices. The goal is to learn and share knowledge and use it as reference for new projects.
 
 ## Technologies and Libraries
@@ -32,9 +32,6 @@ This project is an example of architecture using new technologies and best pract
 - Avoid unnecessary dependency injection.
 - Segregation by feature instead of technical type.
 - Single responsibility for each request and response.
-
-## Project Dependencies
-![](./Git/Images/project-dependencies.bmp)
 
 ## Feedback
 If you have any feedback, please reach out to us at akin.bicer@outlook.com.tr
