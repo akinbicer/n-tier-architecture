@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entiti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{4B6E9036-908F-4B0A-9906-B248CAAE0D0C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "IdentityAPI\WebAPI.csproj", "{97B98FCC-8075-4295-9632-6DDE78946358}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{97B98FCC-8075-4295-9632-6DDE78946358}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
