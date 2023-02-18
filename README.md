@@ -33,5 +33,5 @@ This project is an example of architecture using new technologies and best pract
 - Single responsibility for each request and response.
 
 ## Issues, Feature Requests or Support
-Please use the [New Issue](https://github.com/akinbicer/n-tier-architecture/issues/new) button to add the issue, feature request or support question directly to the development team. You can also send an e-mail to akin.bicer@outlook.com.tr. 
+Please use the [New Issue](https://github.com/akinbicer/n-tier-architecture/issues/new) button to submit issues, feature requests or support issues directly to me. You can also send an e-mail to akin.bicer@outlook.com.tr.
 
