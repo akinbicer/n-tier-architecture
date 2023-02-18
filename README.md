@@ -32,6 +32,6 @@ This project is an example of architecture using new technologies and best pract
 - Segregation by feature instead of technical type.
 - Single responsibility for each request and response.
 
-## Feedback
-If you have any feedback, please reach out to us at akin.bicer@outlook.com.tr
+## Issues, Feature Requests or Support
+Please use the [New Issue](https://github.com/akinbicer/n-tier-architecture/issues/new) button to add the issue, feature request or support question directly to the development team. You can also send an e-mail to akin.bicer@outlook.com.tr. 
 
