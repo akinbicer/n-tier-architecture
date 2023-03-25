@@ -8,12 +8,12 @@ namespace Core.CrossCuttingConcerns.Logging.Log4Net;
 
 public class LoggerServiceBase
 {
+    private readonly ILog _log;
     public bool IsInfoEnabled => _log.IsInfoEnabled;
     public bool IsDebugEnabled => _log.IsDebugEnabled;
     public bool IsWarnEnabled => _log.IsWarnEnabled;
     public bool IsFatalEnabled => _log.IsFatalEnabled;
     public bool IsErrorEnabled => _log.IsErrorEnabled;
-    private readonly ILog _log;
 
     public LoggerServiceBase(string name)
     {
