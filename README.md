@@ -2,8 +2,8 @@
 This project is an example of architecture using new technologies and best practices. The goal is to learn and share knowledge and use it as reference for new projects.
 
 ## Technologies and Libraries
-- .NET 7
-- ASP.NET Core 7.0
+- .NET 8
+- ASP.NET Core 8.0
 - Swagger UI
 - Entity Framework Core
 - Npgsql Entity Framework Core Provider (PostgreSQL)
